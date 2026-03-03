@@ -1,8 +1,8 @@
 class Masix < Formula
   desc "Rust-first messaging automation runtime (Telegram/MCP/Cron)"
   homepage "https://github.com/DioNanos/MasiX"
-  url "https://github.com/DioNanos/MasiX/releases/download/v0.3.3/masix-0.3.3.tar.gz"
-  sha256 "b0a8a5c23a92f52c32884d494df43f6371f7bace4ed068e9b6e48c5cc06c01fc"
+  url "https://github.com/DioNanos/MasiX/releases/download/v0.3.4/masix-0.3.4.tar.gz"
+  sha256 "a09bc19ff4a972737d0fa627fad292b7124f715713b8ef75581790e584546058"
   license "MIT"
 
   depends_on "rust" => :build
